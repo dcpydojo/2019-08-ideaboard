@@ -1,0 +1,15 @@
+- Cloud9 instance automatically set up on AWS for each team at Dojo
+- Roman numeral calculator
+- Crypto pals (crypto means cryptology!)
+- Ephemeral passwords sharing (a la Fugacio.us)
+- Wikipedia edits during prez debates
+- Dog name generator
+- Crappy types
+- Python 2 memorial (cool hacks in 2)
+
+runoff:
+  - crypto pals
+  - Ephemeral password sharing  - Winner!
+      renamed after deciding to use Bottle = "Message in a Bottle"
+      
+  
